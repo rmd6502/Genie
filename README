@@ -1,0 +1,4 @@
+This is an attempt to create the Genie animation, as done on the mac doc, on the iPhone.
+
+Right now it's really slow, I need to move more of the calculations to hardware, probably using 
+OpenGL ES.
